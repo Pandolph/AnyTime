@@ -13,7 +13,7 @@ public class AnyTimeApplication extends Application {
 		AVOSCloud.useAVCloudCN();
 		// U need your AVOS key and so on to run the code.
 		AVOSCloud.initialize(this,
-				"70l90kzm53nplnu013ala0j8wipr594d36m5zuz94ukvmh5s",
-				"lamrsuheyiaqcx4o7m3jaz4awaeukerit1mucnjwk7ibokfv");
+				"2s4amu2ol6y6j369flxy4orr38o4rtpoj2tldfvx4yk1945g",
+				"x0wktubwarcb37tp4i3mhxvlbgaretjaxxiakua3mcjjt3ft");
 	}
 }
